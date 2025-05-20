@@ -19,4 +19,5 @@ Conditionally display the `age` value only if `showDetails` is true.
 - One with `showDetails` set to `true`.
 - One with `showDetails` set to `false`.
 
-Example output:
+**Example output:**
+![Conditional render](./src/assets/conditional_render.png)
