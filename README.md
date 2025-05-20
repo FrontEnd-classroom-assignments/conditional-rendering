@@ -17,10 +17,6 @@ Conditionally display the `age` value only if `showDetails` is true.
 ### 2. Display ProfileCard component
 `App` component renders two `ProfileCard` components:
 - One with `showDetails` set to `true`.
-  Example output:
-    Name: Alice
-    Age: 28
-
 - One with `showDetails` set to `false`.
-  Example output:
-    Name: Lisa
+
+Example output:
