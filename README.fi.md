@@ -1,6 +1,6 @@
 
 # Ehdollinen renderöinti
-Use props and state to conditionally render components based on given boolean flags.
+Käytä propseja ja tilaa (state) komponenttien ehdolliseen renderöintiin annetun boolean arvon perusteella.
 
 ### 1. Luo ProfileCard komponentti
 Luo React komponentti nimeltä `ProfileCard`.
@@ -16,10 +16,10 @@ Komponentin toiminta:
 - `age` props:in arvo näytetään vain jos `showDetails` arvo on `true`.
 
 ### 2. Display ProfileCard comp
-`App` component renders two `ProfileCard` components:
-- One with `showDetails` set to `true`.
-- One with `showDetails` set to `false`.
+`App` komponentti näyttää kaksi `ProfileCard` komponenttia:
+- Yksi missä `showDetails` arvo on `true`.
+- Yksi missä `showDetails` arvo on `false`.
 
-**Example output:**
+**Esimerkki tulostus:**
 
 ![Conditional render](./src/assets/conditional_render.png)
