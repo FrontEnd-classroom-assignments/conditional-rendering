@@ -1,4 +1,4 @@
-![Suomenkielinen tehtävänanto](../README.md)
+[Suomenkielinen tehtävänanto (README.fi.md)](README.fi.md)
 
 # Conditional rendering
 Use props and state to conditionally render components based on given boolean flags.
