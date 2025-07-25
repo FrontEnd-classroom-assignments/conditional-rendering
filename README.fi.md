@@ -11,15 +11,14 @@ name: string
 age: number
 showDetails: boolean
 ```
-Komponentti:
-Näytä aina `name` props:in arvo.
-Näytä `age` arvo vain, jos `showDetails` arvo on `true`.
+Komponentin toiminta:
+- Näytä aina `name` props:in arvo.
+- Näytä `age` arvo vain, jos `showDetails` arvo on `true`.
 
 ### 2. Näytä `ProfileCard`-komponentti
 `App`-komponentti renderöi kaksi `ProfileCard`-komponenttia:
-
-Yksi, jossa `showDetails` arvo on `true`.
-Yksi, jossa `showDetails` arvo on `false`.
+- Yksi, jossa `showDetails` arvo on `true`.
+- Yksi, jossa `showDetails` arvo on `false`.
 
 **Esimerkki tuloste:**
 
