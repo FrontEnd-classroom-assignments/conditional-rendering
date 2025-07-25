@@ -1,3 +1,5 @@
+![Suomeksi](../README.md)
+
 # Conditional rendering
 Use props and state to conditionally render components based on given boolean flags.
 
