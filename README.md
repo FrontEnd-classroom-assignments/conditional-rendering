@@ -1,6 +1,6 @@
 [Suomenkielinen tehtävänanto (README.fi.md)](README.fi.md)
 
-# Conditional rendering
+# Conditional rendering (2 points)
 Use props and state to conditionally render components based on given boolean flags.
 
 ### 1. Create ProfileCard component
